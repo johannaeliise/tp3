@@ -1,0 +1,26 @@
+h1 {
+  font-family: Verdana;
+  color: #800000;
+  font-style: italic;
+}
+
+
+h4 {
+  margin-bottom: 0;
+  font-style: italic;
+  font-size: 16px;
+}
+
+ul, ol {
+  margin-top: 0;
+}
+
+.notice {
+    font-weight: bold;
+}
+
+.copyright {
+  font-family: Verdana;
+  font-size: 9px;
+  font-style: italic;
+}
